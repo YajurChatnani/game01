@@ -20,7 +20,7 @@
 
 | Home Screen | Game Grid | Store | Settings | Rules |
 |-------------|-----------|-------|----------|-------|
-| ![Home](screenshots/home.jpg) | ![Game](screenshots/game_dark.jpg) | ![Store](screenshots/store.jpg) | ![Settings](screenshots/settings.jpg) | ![Rules](screenshots/rules.jpg) |
+| ![Home](screenshots/home_screen.jpg.jpg) | ![Game](screenshots/alt_gameplay_theme.jpg.jpg) | ![Store](screenshots/store_screen.jpg.jpg) | ![Settings](screenshots/settings_screen.jpg.jpg) | ![Rules](rules_popup.jpg.jpg) |
 
 > Light and Dark mode support included 🌗
 
