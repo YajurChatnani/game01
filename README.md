@@ -33,7 +33,7 @@
 
 ## 🎥 Watch Demo
 
-> [![Watch the demo](https://img.youtube.com/vi/5eTq8zv1KKw?si=FChnyr47CWxNvEFS/0.jpg)](https://youtube.com/shorts/5eTq8zv1KKw?si=FChnyr47CWxNvEFS)
+> [![Watch Demo](https://img.youtube.com/vi/5eTq8zv1KKw/hqdefault.jpg)](https://youtube.com/shorts/5eTq8zv1KKw?si=FChnyr47CWxNvEFS)
 
 
 ---
