@@ -1,49 +1,53 @@
-# 🎮 Game01 – Odd One Out!
+# 🎮 GAME 01 – Reflex Color Tap Challenge
 
-An engaging mobile game app built with **Python** and **KivyMD**, where the goal is to spot the odd-colored button in a 3x3 grid as quickly as possible. Game01 is designed for fun and cognitive challenge — with a timer, scoring system, pause functionality, themes, store, rewards, and more.
+**GAME 01** is a fast-paced mobile game built using **Python** and **KivyMD**, where your goal is to tap the button with the **different color** among a 3x3 grid. React fast, score high, and unlock rewards!
 
----
-
-## 📱 Preview
-
-> *(Add screenshots here later by uploading images to a `/screenshots` folder)*
+> ⏱ Score as high as you can in 60 seconds!
 
 ---
 
-## 🚀 Features
-
-- ✅ Spot the button with a different color from the rest  
-- ✅ Timer-based gameplay (60 seconds)  
-- ✅ Score updates dynamically (+5 / -10)  
-- ✅ High score tracking  
-- ✅ Pause/Resume functionality  
-- ✅ Dark mode toggle  
-- ✅ Interactive UI with rewards, missions, and store  
-- ✅ Smooth transitions and animations  
+## 🧠 Gameplay Rules
+1. Click the **green play button** to start.
+2. A grid of 9 buttons will appear.
+3. One button has a slightly different color — tap it!
+4. ⬆️ **+5** for a correct tap  
+   ❌ **-10** for a wrong tap
+5. Score as much as you can in 60 seconds!
 
 ---
 
-## 🧠 What I Learned
+## 🖼️ Screenshots
 
-- Managing real-time game logic with `Clock`  
-- Dynamic UI state updates and animations  
-- Dark mode implementation in KivyMD  
-- Navigation and layout using `ScreenManager`, `FloatLayout`, `GridLayout`, etc.  
-- Building a complete mini-app with expandable features
+| Home Screen | Game Grid | Store | Settings | Rules |
+|-------------|-----------|-------|----------|-------|
+| ![Home](screenshots/home.jpg) | ![Game](screenshots/game_dark.jpg) | ![Store](screenshots/store.jpg) | ![Settings](screenshots/settings.jpg) | ![Rules](screenshots/rules.jpg) |
 
----
-
-## 🛠️ Tech Stack
-
-- **Language:** Python  
-- **Framework:** KivyMD (on top of Kivy)  
-- **Tools:** VS Code, Git, Python 3.x  
+> Light and Dark mode support included 🌗
 
 ---
 
-## 📂 Installation & Running
+## 🧩 Features
+- 60-second reflex challenge
+- Color-difference detection game logic
+- Score tracking & timer
+- Pause and Resume functionality
+- In-game currency system
+- Store with power-ups and coin exchange
+- Dark mode toggle
+- Clean, responsive UI with KivyMD
+- Fully mobile-friendly layout
 
-1. **Clone this repository:**
-   ```bash
-   git clone https://github.com/YajurChatnani/game01.git
-   cd game01
+---
+
+## ⚙️ Setup & Run
+
+> 💡 This game is designed for mobile but can also be run on desktop for testing.
+
+### Requirements
+- Python 3.10+
+- Kivy
+- KivyMD
+
+### Install Dependencies
+```bash
+pip install kivy kivymd
