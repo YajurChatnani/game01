@@ -7,14 +7,16 @@
 ---
 
 ## 🧠 Gameplay Rules
-1. Click the **green play button** to start.
-2. A grid of 9 buttons will appear.
-3. One button has a slightly different color — tap it!
-4. ⬆️ **+5** for a correct tap  
-   ❌ **-10** for a wrong tap
-5. Score as much as you can in 60 seconds!
+
+1. Tap the **green play button** to start the game  
+2. A grid of 9 buttons will appear  
+3. One button has a slightly different color — tap that!  
+4. ✅ Correct tap = **+5 points**  
+   ❌ Wrong tap = **-10 points**  
+5. Your goal: Get the highest score in **60 seconds**
 
 ---
+
 ## 🖼️ Screenshots
 
 | Home Screen | Gameplay (Light) | Gameplay (Dark) |
@@ -25,33 +27,58 @@
 |-------------|----------|--------|
 | ![Rules](screenshots/rules_popup.jpg) | ![Settings](screenshots/settings_screen.jpg) | ![Store](screenshots/store_screen.jpg) |
 
-
-> Light and Dark mode support included 🌗
-
----
-
-## 🧩 Features
-- 60-second reflex challenge
-- Color-difference detection game logic
-- Score tracking & timer
-- Pause and Resume functionality
-- In-game currency system
-- Store with power-ups and coin exchange
-- Dark mode toggle
-- Clean, responsive UI with KivyMD
-- Fully mobile-friendly layout
+> 🌗 Light and Dark mode support included
 
 ---
 
-## ⚙️ Setup & Run
+## 🎥 Watch Demo
 
-> 💡 This game is designed for mobile but can also be run on desktop for testing.
+> [![Watch the demo](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](https://youtu.be/YOUTUBE_VIDEO_ID)
 
-### Requirements
-- Python 3.10+
-- Kivy
-- KivyMD
+_Replace `YOUTUBE_VIDEO_ID` with your actual video ID once uploaded._
 
-### Install Dependencies
-```bash
-pip install kivy kivymd
+---
+
+## 🚀 Features
+
+- ✅ 60-second reflex challenge
+- ✅ Unique color detection logic
+- ✅ Timer, Score & High Score tracking
+- ✅ Pause / Resume functionality
+- ✅ In-game coin and s-coin system
+- ✅ Store & Missions (expandable)
+- ✅ Light / Dark mode toggle
+- ✅ Responsive KivyMD UI layout
+
+---
+
+## 🛠️ Tech Stack
+
+- **Language:** Python  
+- **Framework:** KivyMD (on top of Kivy)  
+- **Tools:** VS Code, Git, Python 3.x
+
+---
+
+## 📂 Installation & Running
+
+> 💡 This app is optimized for mobile, but can be tested on desktop.
+
+1. **Clone this repository:**
+   ```bash
+   git clone https://github.com/YajurChatnani/game01.git
+   cd game01
+   
+2. **(Optional) Create and activate a virtual environment:**
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+3. **Install required dependencies:**
+   ```bash
+   pip install kivy kivymd
+
+4. **Run the app:**
+   ```bash
+   python main.py
+
