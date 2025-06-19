@@ -33,9 +33,8 @@
 
 ## 🎥 Watch Demo
 
-> [![Watch the demo](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](https://youtu.be/YOUTUBE_VIDEO_ID)
+> [![Watch the demo](https://img.youtube.com/vi/5eTq8zv1KKw?si=FChnyr47CWxNvEFS/0.jpg)](https://youtube.com/shorts/5eTq8zv1KKw?si=FChnyr47CWxNvEFS)
 
-_Replace `YOUTUBE_VIDEO_ID` with your actual video ID once uploaded._
 
 ---
 
