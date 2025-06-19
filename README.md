@@ -15,12 +15,16 @@
 5. Score as much as you can in 60 seconds!
 
 ---
-
 ## 🖼️ Screenshots
 
-| Home Screen | Game Grid | Store | Settings | Rules |
-|-------------|-----------|-------|----------|-------|
-| ![Home](screenshots/home_screen.jpg.jpg) | ![Game](screenshots/alt_gameplay_theme.jpg.jpg) | ![Store](screenshots/store_screen.jpg.jpg) | ![Settings](screenshots/settings_screen.jpg.jpg) | ![Rules](rules_popup.jpg.jpg) |
+| Home Screen | Gameplay (Light) | Gameplay (Dark) |
+|-------------|------------------|-----------------|
+| ![Home Screen](screenshots/home_screen.jpg) | ![Gameplay Light](screenshots/gameplay_screen.jpg) | ![Gameplay Dark](screenshots/alt_gameplay_theme.jpg) |
+
+| Rules Popup | Settings | Store |
+|-------------|----------|--------|
+| ![Rules](screenshots/rules_popup.jpg) | ![Settings](screenshots/settings_screen.jpg) | ![Store](screenshots/store_screen.jpg) |
+
 
 > Light and Dark mode support included 🌗
 
